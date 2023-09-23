@@ -8,7 +8,7 @@ import Model.Clientes;
 
 /**
  *
- * @author Usuario
+ * @author Nicholas
  */
 public class CadastroClientes extends javax.swing.JFrame {
 
@@ -269,7 +269,7 @@ public class CadastroClientes extends javax.swing.JFrame {
     private javax.swing.JTextField textoEmail;
     private javax.swing.JTextField textoNome;
     // End of variables declaration//GEN-END:variables
-
+       //dados do botão
     private void LimparCampos(){
         textoNome.setText("");
         textoCpf.setText("");
